@@ -1,11 +1,7 @@
-ul {
-  list-style-position: inside;
-  text-align: center;
-  font:20px "Courier New";
-  color: 4D1C62
-  margin: 35px 500px 35px 500px;
+p {
+  color: #7C21C3
 }
 
-p {
-  margin: 35px 500px 35px 500px;
+h1 {
+  color: #7C21C3
 }
