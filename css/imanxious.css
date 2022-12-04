@@ -1,7 +1,31 @@
-p {
-  color: #7C21C3
+h1 {
+text-align: center;
+color: #610EA2;
+
 }
 
-h1 {
-  color: #610EA2
+p {
+  color: #7C21C3;
+}
+
+h2 {
+  color: #610EA2;
+  text-align: left;
+  outline-style: double;
+  outline-color: #610EA2;
+}
+
+div {
+  background-color: #B180D8;
+  height: 100px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  outline-style: double;
+  outline-color: #610EA2;
+}
+
+body {
+  background-color: #CCA9E8;
 }
