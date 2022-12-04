@@ -29,3 +29,19 @@ div {
 body {
   background-color: #CCA9E8;
 }
+
+footer {
+  color: #7C21C3;
+  text-align: center;
+}
+
+button {
+  color: #610EA2;
+  background-color: #B180D8;
+  border: double;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
