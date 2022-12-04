@@ -37,3 +37,12 @@ $(document).ready(function(){
     $("#grounding").show();
   });
 });
+
+$(document).ready(function(){
+  $("#hideFive").click(function(){
+    $("#services").hide();
+  });
+  $("#showFive").click(function(){
+    $("#services").show();
+  });
+});
